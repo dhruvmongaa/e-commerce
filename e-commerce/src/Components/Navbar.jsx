@@ -40,8 +40,8 @@ const Navbar = () => {
   return (
     <nav className="bg-white shadow-md">
       <div className="container mx-auto px-4 md:px-16 lg:px-24 py-8 flex justify-between items-center">
-        <div className="text-lg font-bold">
-          <Link to="/">StyleMania❤️</Link>
+        <div className="text-xl">
+          <Link to="/">𝑺𝒕𝒚𝒍𝒆𝑴𝒂𝒏𝒊𝒂❤️</Link>
         </div>
         <div className="relative flex-1 mx-4">
           <form
