@@ -39,7 +39,7 @@ const Home = () => {
         <div className="w-full md:w-9/12 mt-8 md:mt-0 h-96 relative">
           <img src={HeroImage} alt="" className="h-full w-full" />
           <div className="absolute top-10 left-4 sm:top-16 max-w-[90%] sm:max-w-[60%]">
-            <h2 className="text-md sm:text-3xl font-bold">WELCOME TO 𝑺𝒕𝒚𝒍𝒆𝑴𝒂𝒏𝒊𝒂❤️</h2>
+            <h2 className="text-md sm:text-3xl font-bold">WELCOME TO StyleMania❤️</h2>
             <p className="text-md sm:text-xl mt-2 font-bold text-gray-800">
               MILLIONS+ PRODUCTS
             </p>
